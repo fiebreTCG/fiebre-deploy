@@ -1,0 +1,1 @@
+# Fiebre TCG - Proyecto Next.js
